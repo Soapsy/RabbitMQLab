@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB.DataScanner.ConfigDatabaseApi", "LAB.DataScanner.ConfigDatabaseApi.csproj", "{D24156A4-EE47-437D-BD5B-47897433AA7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D24156A4-EE47-437D-BD5B-47897433AA7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D24156A4-EE47-437D-BD5B-47897433AA7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D24156A4-EE47-437D-BD5B-47897433AA7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D24156A4-EE47-437D-BD5B-47897433AA7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75CFBD64-1F4E-4AF1-8E1F-F53DFD1548A8}
+	EndGlobalSection
+EndGlobal
